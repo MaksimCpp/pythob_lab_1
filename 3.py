@@ -1,8 +1,4 @@
-# Задание 6
-num = int(input('Введите число: '))
-table = ''
-start, end = 1, 11
-
-print('Таблица умножения:')
-for i in range(start, end):
-    print(f'{num} * {i} = {num * i}')
+# Задание 3
+num1 = input('Введите первое число: ')
+num2 = input('Введите второе число: ')
+print(f'Сумма ваших чисел: {num1 + num2}')

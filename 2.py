@@ -1,4 +1,3 @@
-# Задание 5
-from datetime import datetime
-
-print(f'Текущие дата и время: {datetime.now()}')
+# Задание 2
+name = input('Ваше имя: ')
+print(f'Привет, {name}!')
